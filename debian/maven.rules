@@ -1,0 +1,3 @@
+
+org.opentest4j.reporting s/schema/open-test-reporting-schema/ * s/.*/debian/ * *
+org.opentest4j.reporting s/events/open-test-reporting-events/ * s/.*/debian/ * *
